@@ -21,7 +21,7 @@ __fanart__ = __addon__.getAddonInfo('fanart')
 __author__ = u'Phantom Raspberry Blower'
 __url__ = sys.argv[0]
 __handle__ = int(sys.argv[1])
-__baseurl__ = 'http://fullmatchsports.com/'
+__baseurl__ = 'http://fullmatchsports.co/'
 
 # Define local variables
 image_path = xbmc.translatePath(os.path.join('special://home/addons/',
